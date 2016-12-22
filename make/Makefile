@@ -17,7 +17,7 @@
 GTEST_DIR = ../googletest
 
 # Where to find user code.
-USER_DIR = ../mycode
+USER_DIR = ../tryFixture
 
 # Flags passed to the preprocessor.
 # Set Google Test's header directory as a system directory, such that
